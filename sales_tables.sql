@@ -1,3 +1,8 @@
+-- Created on 2025-01-09 01:07:31
+-- Author: Sohag Chakraborty
+-- GitHub: https://github.com/csesohag02
+
+--
 -- Create database `sales`
 CREATE DATABASE  IF NOT EXISTS `sales`;
 
@@ -50,5 +55,5 @@ CREATE TABLE `transactions` (
 	`cost price` double DEFAULT NULL
 );
 
---
--- Dump completed on 2020-06-24 13:59:31
+-- Created and maintained by Sohag Chakraborty
+-- GitHub: https://github.com/csesohag02
