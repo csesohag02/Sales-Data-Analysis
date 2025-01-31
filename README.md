@@ -29,6 +29,6 @@ This project provides a **Sales Data Visulization System**, which includes a **M
 3. Explore sales trends and insights.
 
 ## Author
-- **Sohag Chakraborty**
+- Created and maintained by **Sohag Chakraborty**
 - GitHub: [csesohag02](https://github.com/csesohag02)
 
